@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="viva_magenta">#bb2649</color>
+    <color name="blue_klein">#002fa7</color>
 </resources>
