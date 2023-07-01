@@ -16,4 +16,5 @@
     <string name="tv_required_percentage">Необходимый процент правильных ответов: %s</string>
     <string name="tv_score_percentage">Процент правильных ответов: %s</string>
     <string name="bt_retry">Попробовать снова</string>
+    <string name="tv_question">\?</string>
 </resources>
